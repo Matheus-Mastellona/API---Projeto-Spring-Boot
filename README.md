@@ -62,7 +62,7 @@ Antes de iniciar, é necessário ter os seguintes itens instalados:
 
 ### Clone este repositório:
 ```bash
-git clone https://github.com/Matheus-Mastellona/cep-api.git
+git clone https://github.com/Matheus-Mastellona/API---Projeto-Spring-Boot
 ```
 
 ### Acesse o diretório do projeto:
