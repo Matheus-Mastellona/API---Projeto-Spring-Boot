@@ -86,6 +86,8 @@ Após iniciar o projeto, você pode testar a API enviando uma requisição GET p
 ```bash
 curl "http://localhost:8080/consulta-cep?cep=01001-000"
 ```
+![image](https://github.com/user-attachments/assets/ee0b2a56-1b80-4363-b0c3-022b81245ea5)
+
 
 ## Configuração
 A configuração do projeto está no arquivo application.properties:
